@@ -1,0 +1,23 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/billybob71a/burger-api#readme",
+  "bugs": {
+    "url": "https://github.com/billybob71a/burger-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billybob71a/burger-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
