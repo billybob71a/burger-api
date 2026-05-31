@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/billybob71a/burger-api#readme",
+  "scrpits": {
+    "start": "node server.js"
+  },
   "bugs": {
     "url": "https://github.com/billybob71a/burger-api/issues"
   },
