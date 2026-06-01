@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/billybob71a/burger-api#readme",
-  "scrpits": {
+  "scripts": {
     "start": "node server.js"
   },
   "bugs": {
